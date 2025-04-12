@@ -11,4 +11,4 @@ This is a small web-based application built with [Streamlit](https://streamlit.i
 
 ## How to Run
 
-#Click on this link: https://pointing.streamlit.app/
+# Click on this link: https://pointing.streamlit.app/
